@@ -10,7 +10,9 @@ Currently, two official plugins are available:
 
 # To run the code :
 open VS code - open terminal => ctrl + '
+
 npm i
+
 npm run dev
 
 
